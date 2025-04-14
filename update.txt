@@ -1,5 +1,5 @@
 {
-  "versionCode": 1728,
+  "versionCode": 1928,
   "versionName": "4.2.4",
   "Msg": "
 📢 تنبيه مهم!
